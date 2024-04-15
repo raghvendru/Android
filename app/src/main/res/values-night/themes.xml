@@ -1,0 +1,24 @@
+<!--suppress AndroidDomInspection, AndroidDomInspection -->droidDomInspection -->droidDomInspection -->droidDomInspection -->droidDomInspection -->droidDomInspection -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ECommerce" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <!--suppress AndroidDomInspection -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <!--suppress AndroidDomInspection -->
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <!--suppress AndroidDomInspection -->
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <!--suppress AndroidDomInspection -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <!--suppress AndroidDomInspection -->
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <!--suppress AndroidDomInspection -->
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <!--suppress AndroidDomInspection -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
